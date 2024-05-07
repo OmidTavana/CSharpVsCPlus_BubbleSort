@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6GbZJzZjVpGSCtPnS1HTHRpAoRMhB1l5OgIrJJwlvS1q/cNHGj2P3FpzEMUXiZZU57hvR893e8MUuo3MutAwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OmidTavana\\source\\repos\\CsharpCounToB\\CsharpCounToB\\CsharpCounToB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OmidTavana\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\OmidTavana\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\OmidTavana\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\bin\x64\Debug\net8.0\CsharpCounToB.exe
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\bin\x64\Debug\net8.0\CsharpCounToB.deps.json
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\bin\x64\Debug\net8.0\CsharpCounToB.runtimeconfig.json
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\bin\x64\Debug\net8.0\CsharpCounToB.dll
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\bin\x64\Debug\net8.0\CsharpCounToB.pdb
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.AssemblyInfoInputs.cache
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.AssemblyInfo.cs
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.csproj.CoreCompileInputs.cache
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.dll
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\refint\CsharpCounToB.dll
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.pdb
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\CsharpCounToB.genruntimeconfig.cache
+C:\Users\OmidTavana\source\repos\CsharpCounToB\CsharpCounToB\obj\x64\Debug\net8.0\ref\CsharpCounToB.dll
