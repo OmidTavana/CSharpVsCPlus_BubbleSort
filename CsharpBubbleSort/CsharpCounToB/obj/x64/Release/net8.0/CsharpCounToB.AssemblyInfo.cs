@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpCounToB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af2b05f829fb2febc349f4f0a0f27a89370fa76")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpCounToB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpCounToB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

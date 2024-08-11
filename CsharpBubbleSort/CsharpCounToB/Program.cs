@@ -16,12 +16,6 @@ void ReadFromText(int[] array)
 	{
 		array[i] = int.Parse(lines[i]);
 	}
-	//Console.WriteLine(array[200]);
-	//Console.WriteLine(array[5000]);
-	//Console.WriteLine(array[1000]);
-	//Console.WriteLine(array[19500]);
-	//Console.WriteLine(array[24000]);
-	//Console.WriteLine(array[49999]);
 }
 
 void SortArray(int[] NumArray)
@@ -45,7 +39,7 @@ void SortArray(int[] NumArray)
 			break;
 	}
 	DateTime time2 = DateTime.Now;
-	Console.WriteLine("Swap Count : " + swapCount);
+	Console.WriteLine("Swap Count : " + swapCount.ToString("###,###"));
 	Console.WriteLine("C# Sorting Array Time : " + (time2 - time1).TotalSeconds);
 }
 
