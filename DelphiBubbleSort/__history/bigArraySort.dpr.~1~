@@ -1,0 +1,46 @@
+program bigArraySort;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils, System.Classes;
+var
+  Lines: TStringList;
+  IntArray: array of Integer;
+  I: Integer;
+begin
+  Lines := TStringList.Create;
+  try
+    // Load the text file
+    Lines.LoadFromFile('path_to_your_text_file.txt');
+
+    // Set the length of the array to the number of lines in the text file
+    SetLength(IntArray, Lines.Count);
+
+    // Copy lines from TStringList to array, converting to integer
+    for I := 0 to Lines.Count - 1 do
+    begin
+      IntArray[I] := StrToInt(Lines[I]);
+    end;
+
+    // Output the integers to verify (for demonstration purposes)
+    for I := 0 to High(IntArray) do
+    begin
+      Writeln(IntArray[I]);
+    end;
+
+  except
+    on E: EConvertError do
+      Writeln('Error converting string to integer: ', E.Message);
+    on E: Exception do
+      Writeln('An error occurred: ', E.Message);
+  end;
+
+  Lines.Free;
+
+  // Wait for user to press Enter before closing the console
+  Readln;
+
+end.
